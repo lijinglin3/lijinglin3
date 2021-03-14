@@ -1,16 +1,23 @@
-### Hi there 👋
+<a href="https://github.com/lijinglin3?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lijinglin3&theme=highcontrast&count_private=true&show_icons=true" width="50%" />
+</a>
 
-<!--
-**lijinglin3/lijinglin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there. I am lijinglin 👋
 
-Here are some ideas to get you started:
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lijinglin3.lijinglin3)
+
+### About Me
+
+- 🖥 I'm product developer based in Shanghai, China.
+- ✍️ I wrote dev articles [here](https://github.com/lijinglin3/lijinglin3/issues)
+- 💬 You can Ask Me Anything [here](https://github.com/lijinglin3/lijinglin3/discussions)
+
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijinglin3&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Works
+
+[![algorithm-go](https://github-readme-stats.vercel.app/api/pin/?username=lijinglin3&repo=algorithm-go&theme=dracula&show_owner=true)](https://github.com/lijinglin3/algorithm-go)
